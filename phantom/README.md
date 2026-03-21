@@ -17,7 +17,7 @@
 
 ---
 
-## ⚠️ تحذير | Important Warning
+## ⚠️ تحذير هامي | Important Warning
 إدخال كلمة مرور خاطئة أثناء محاولة الاستخراج سيؤدي فوراً إلى تدمير الملف (**Self-destruct mechanism**).
 
 Entering an incorrect password during extraction will immediately lead to file destruction (**Self-destruct mechanism**).
@@ -37,7 +37,7 @@ Open **PowerShell** inside the tool directory:
 
 PowerShell
 .\phantom.exe reveal vault_file "password" output_file
-### 2️⃣ أنظمة لينكس (Linux)
+2️⃣ أنظمة لينكس (Linux)
 افتح الطرفية ونفذ الأوامر التالية:
 Open the Terminal and execute the following commands:
 
@@ -53,19 +53,21 @@ Bash
 
 Bash
 ./phantom reveal vault_file "password" output_file
+👨‍💻 المطورون | Developers
+👤 Marwan-Omar (kitsune)
+📺 YouTube
 
+🎵 TikTok
 
-المطورين(Developers) 
+🔵 Facebook
 
-### Marwan-Omar (kitsune)
-*  [YouTube](https://youtube.com/@kitsune_prog)
-*  [TikTok](https://www.tiktok.com/@kitsune_fire0)
-*  [Facebook](https://www.facebook.com/share/14acL8gk5jS/)
-*  [GitHub](https://github.com/Marwan-Omar729/fcrypto)
-########################################################################
+💻 GitHub
 
-### Youssef-Zakaria (JOURIFT)
-*  [YouTube](https://www.youtube.com/@JOURIFT)
-*  [TikTok](https://www.tiktok.com/@jourift)
-*  [Facebook](https://www.facebook.com/share/1DPT7MsVwj/)
-*  [GitHub](https://github.com/Joussef76)
+👤 Youssef-Zakaria (JOURIFT)
+📺 YouTube
+
+🎵 TikTok
+
+🔵 Facebook
+
+💻 GitHub
