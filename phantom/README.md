@@ -17,7 +17,7 @@
 
 ---
 
-## ⚠️ تحذير هامي | Important Warning
+## ⚠️ تحذير | Important Warning
 إدخال كلمة مرور خاطئة أثناء محاولة الاستخراج سيؤدي فوراً إلى تدمير الملف (**Self-destruct mechanism**).
 
 Entering an incorrect password during extraction will immediately lead to file destruction (**Self-destruct mechanism**).
@@ -37,7 +37,7 @@ Open **PowerShell** inside the tool directory:
 
 PowerShell
 .\phantom.exe reveal vault_file "password" output_file
-2️⃣ أنظمة لينكس (Linux)
+### 2️⃣ أنظمة لينكس (Linux)
 افتح الطرفية ونفذ الأوامر التالية:
 Open the Terminal and execute the following commands:
 
