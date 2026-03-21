@@ -45,7 +45,7 @@ Open the Terminal and execute the following commands:
 منح صلاحيات التنفيذ (Grant Permissions):
 
 Bash
-chmod +x phantom_linux
+chmod +x phantom
 للإخفاء (Hide):
 
 Bash
