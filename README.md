@@ -58,14 +58,14 @@ Bash
 
 المطورين(Developers) 
 
-### Marwan-Omar (kitsune)
+   Marwan-Omar (kitsune)
 *  [YouTube](https://youtube.com/@kitsune_prog)
 *  [TikTok](https://www.tiktok.com/@kitsune_fire0)
 *  [Facebook](https://www.facebook.com/share/14acL8gk5jS/)
 *  [GitHub](https://github.com/Marwan-Omar729/fcrypto)
 ########################################################################
 
-### Youssef-Zakaria (JOURIFT)
+   Youssef-Zakaria (JOURIFT)
 *  [YouTube](https://www.youtube.com/@JOURIFT)
 *  [TikTok](https://www.tiktok.com/@jourift)
 *  [Facebook](https://www.facebook.com/share/1DPT7MsVwj/)
