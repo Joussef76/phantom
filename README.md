@@ -131,28 +131,7 @@ chmod +x phantom_macos_apple_silicon   # or phantom_macos_intel
 
 ---
 
-## 🔨 البناء من المصدر | Build from Source
-
-**متطلبات | Requirements:** Go 1.21+
-
-```bash
-git clone https://github.com/Marwan-Omar729/fcrypto
-cd fcrypto
-go mod tidy
-```
-
-**Linux / macOS:**
-```bash
-chmod +x build.sh
-./build.sh
-```
-
-**Windows (PowerShell):**
-```powershell
-.\build.ps1
-```
-
----
+#
 
 ## 🔒 التفاصيل الأمنية | Security Details
 
