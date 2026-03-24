@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
-# ════════════════════════════════════════════════════════════════════════════
-#  PHANTOM — Cross-Platform Build Script
-#  كل نظام تشغيل في فولدر منفصل، والملف التنفيذي اسمه phantom دايماً
-# ════════════════════════════════════════════════════════════════════════════
+
 
 set -e
 
@@ -22,7 +19,7 @@ echo "  #       PHANTOM — Build System          #"
 echo "  #########################################"
 echo -e "${RESET}"
 
-# ── التأكد من وجود Go ────────────────────────────────────────────────────────
+
 if ! command -v go &>/dev/null; then
     echo -e "${RED}[✘] Go is not installed. Please install Go 1.21+${RESET}"
     exit 1
@@ -32,12 +29,10 @@ echo -e "${YELLOW}[*] Go version: $(go version)${RESET}"
 echo -e "${YELLOW}[*] Tidying dependencies...${RESET}"
 go mod tidy
 
-# ── حذف dist القديم وإعادة إنشاؤه ───────────────────────────────────────────
 rm -rf "$DIST"
 mkdir -p "$DIST"
 
-# ── دالة البناء ──────────────────────────────────────────────────────────────
-# build <GOOS> <GOARCH> <folder_name> <binary_suffix>
+
 build() {
     local GOOS=$1
     local GOARCH=$2
